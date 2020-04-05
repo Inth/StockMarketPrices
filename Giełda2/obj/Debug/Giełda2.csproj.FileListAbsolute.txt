@@ -1,0 +1,10 @@
+C:\Users\Inth\source\repos\Giełda2\Giełda2\obj\Debug\Giełda2.csprojAssemblyReference.cache
+C:\Users\Inth\source\repos\Giełda2\Giełda2\obj\Debug\Giełda2.Form1.resources
+C:\Users\Inth\source\repos\Giełda2\Giełda2\obj\Debug\Giełda2.Properties.Resources.resources
+C:\Users\Inth\source\repos\Giełda2\Giełda2\obj\Debug\Giełda2.csproj.GenerateResource.cache
+C:\Users\Inth\source\repos\Giełda2\Giełda2\obj\Debug\Giełda2.csproj.CoreCompileInputs.cache
+C:\Users\Inth\source\repos\Giełda2\Giełda2\bin\Debug\Giełda2.exe.config
+C:\Users\Inth\source\repos\Giełda2\Giełda2\bin\Debug\Giełda2.exe
+C:\Users\Inth\source\repos\Giełda2\Giełda2\bin\Debug\Giełda2.pdb
+C:\Users\Inth\source\repos\Giełda2\Giełda2\obj\Debug\Giełda2.exe
+C:\Users\Inth\source\repos\Giełda2\Giełda2\obj\Debug\Giełda2.pdb
